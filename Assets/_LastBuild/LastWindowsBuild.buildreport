@@ -1,0 +1,2489 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!641289076 &-9061343544343078927
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!1126 &-7666407449819534835
+PackedAssets:
+  m_ShortPath: CAB-afc9fd36837934f1e4de8626e45a956d
+  m_Overhead: 4032
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4032
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 156
+    offset: 4136
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!1521398425 &-128242871684874992
+VideoBuildInfo:
+  m_VideoClipCount: 0
+  m_IsVideoModuleDisabled: 0
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastWindowsBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 638959346078268226
+    buildGUID: 00000000000000000000000000000000
+    platformName: Win64
+    platformGroupName: Standalone
+    subtarget: 0
+    options: 0
+    assetBundleOptions: 32
+    outputPath: C:/Users/Arti/AppData/Local/Temp/DefaultCompany/nya media 2
+    crc: 1006708287
+    totalSize: 2737982
+    totalTimeTicks: 374005502
+    totalErrors: 0
+    totalWarnings: 95
+    buildType: 2
+    buildResult: 1
+  m_Files:
+  - path: C:/Users/Arti/Documents/VRChat Unity Projects/nya media 2/scene-standalonewindows64-vrcdefaultworldscene-9295524f-aa6b-43dd-ab8a-2bec945ca647.vrcw/BuildPlayer-VRCDefaultWorldScene
+    role: Scene
+    id: 0
+    totalSize: 3460196
+  - path: C:/Users/Arti/Documents/VRChat Unity Projects/nya media 2/scene-standalonewindows64-vrcdefaultworldscene-9295524f-aa6b-43dd-ab8a-2bec945ca647.vrcw/BuildPlayer-VRCDefaultWorldScene.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 9982788
+  - path: C:/Users/Arti/Documents/VRChat Unity Projects/nya media 2/scene-standalonewindows64-vrcdefaultworldscene-9295524f-aa6b-43dd-ab8a-2bec945ca647.vrcw
+    role: AssetBundle
+    id: 2
+    totalSize: 2731997
+  - path: C:/Users/Arti/Documents/VRChat Unity Projects/nya media 2/scene-standalonewindows64-vrcdefaultworldscene-9295524f-aa6b-43dd-ab8a-2bec945ca647.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 4676
+  - path: C:/Users/Arti/Documents/VRChat Unity Projects/nya media 2/nya media 2/CAB-afc9fd36837934f1e4de8626e45a956d
+    role: ResourcesFile
+    id: 4
+    totalSize: 4292
+  - path: C:/Users/Arti/Documents/VRChat Unity Projects/nya media 2/nya media 2
+    role: ManifestAssetBundle
+    id: 5
+    totalSize: 1093
+  - path: C:/Users/Arti/Documents/VRChat Unity Projects/nya media 2/nya media 2.manifest
+    role: AssetBundleTextManifest
+    id: 6
+    totalSize: 216
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 374005502
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 3966094
+    depth: 1
+    messages: []
+  - stepName: Prebuild Cleanup and Recompile
+    durationTicks: 209111772
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 208685399
+    depth: 2
+    messages: []
+  - stepName: Generate and validate platform script types
+    durationTicks: 302108
+    depth: 2
+    messages: []
+  - stepName: Build Scene AssetBundle(s)
+    durationTicks: 108741641
+    depth: 1
+    messages: []
+  - stepName: 'Build bundle: scene-standalonewindows64-vrcdefaultworldscene-9295524f-aa6b-43dd-ab8a-2bec945ca647.vrcw'
+    durationTicks: 105683869
+    depth: 2
+    messages:
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites/Credits/YamaButa.png)
+        of Sprite (YamaButa) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites/Credits/vistanz.png)
+        of Sprite (vistanz) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_mask_circle.png)
+        of Sprite (plain_mask_circle) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_3dwidthhalf.png)
+        of Sprite (plain_3dwidthhalf) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_3dwidthfull.png)
+        of Sprite (plain_3dwidthfull) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_www.png)
+        of Sprite (plain_www) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_link_broken.png)
+        of Sprite (plain_link_broken) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_music_off.png)
+        of Sprite (plain_music_off) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_lock_closed.png)
+        of Sprite (plain_lock_closed) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_doubleloop.png)
+        of Sprite (plain_arrow_doubleloop) is using compressed format. To ensure
+        no loss in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_spin.png)
+        of Sprite (plain_arrow_spin) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_lock_open.png)
+        of Sprite (plain_lock_open) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_loop.png)
+        of Sprite (plain_arrow_loop) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_headphone.png)
+        of Sprite (plain_headphone) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_graph_linear.png)
+        of Sprite (plain_graph_linear) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_graph_exponential.png)
+        of Sprite (plain_graph_exponential) is using compressed format. To ensure
+        no loss in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_checkmark.png)
+        of Sprite (plain_checkmark) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_link.png)
+        of Sprite (plain_link) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_chevron_double.png)
+        of Sprite (plain_chevron_double) is using compressed format. To ensure no
+        loss in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_music_on.png)
+        of Sprite (plain_music_on) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_plus.png)
+        of Sprite (plain_plus) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_double.png)
+        of Sprite (plain_arrow_double) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_high.png)
+        of Sprite (plain_volume_high) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_waypoint.png)
+        of Sprite (plain_waypoint) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_diagonal.png)
+        of Sprite (plain_arrow_diagonal) is using compressed format. To ensure no
+        loss in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_label.png)
+        of Sprite (plain_label) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_gear.png)
+        of Sprite (plain_gear) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_share.png)
+        of Sprite (plain_share) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_single.png)
+        of Sprite (plain_arrow_single) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_off.png)
+        of Sprite (plain_volume_off) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_send.png)
+        of Sprite (plain_send) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_trash.png)
+        of Sprite (plain_trash) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_home.png)
+        of Sprite (plain_home) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_mid.png)
+        of Sprite (plain_volume_mid) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_download.png)
+        of Sprite (plain_download) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_mute.png)
+        of Sprite (plain_volume_mute) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_camera_video.png)
+        of Sprite (plain_camera_video) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_stop.png)
+        of Sprite (plain_stop) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_previous.png)
+        of Sprite (plain_previous) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_next.png)
+        of Sprite (plain_next) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_low.png)
+        of Sprite (plain_volume_low) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_close.png)
+        of Sprite (plain_close) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_chevron.png)
+        of Sprite (plain_chevron) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_sliders.png)
+        of Sprite (plain_sliders) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_list.png)
+        of Sprite (plain_list) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_play.png)
+        of Sprite (plain_play) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_pause.png)
+        of Sprite (plain_pause) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_menu.png)
+        of Sprite (plain_menu) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_information.png)
+        of Sprite (plain_information) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Resources/UI/Icons/plain_minus.png)
+        of Sprite (plain_minus) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - End Of Time (ft. Fokushi).jpg) of Sprite (Stessie - End Of Time (ft. Fokushi))
+        is using compressed format. To ensure no loss in source pixel details when
+        packing to SpriteAtlas, please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Find Me Here (ft. Bien).jpg) of Sprite (Stessie - Find Me Here (ft. Bien))
+        is using compressed format. To ensure no loss in source pixel details when
+        packing to SpriteAtlas, please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        & BLOOD CODE - Candy Heart.jpg) of Sprite (Stessie & BLOOD CODE - Candy Heart)
+        is using compressed format. To ensure no loss in source pixel details when
+        packing to SpriteAtlas, please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Angel (TOFUKU).jpg) of Sprite (Stessie - Angel (TOFUKU)) is using compressed
+        format. To ensure no loss in source pixel details when packing to SpriteAtlas,
+        please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Celebrate.jpg) of Sprite (Stessie - Celebrate) is using compressed format.
+        To ensure no loss in source pixel details when packing to SpriteAtlas, please
+        use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Friends EP.jpg) of Sprite (Stessie - Friends EP) is using compressed format.
+        To ensure no loss in source pixel details when packing to SpriteAtlas, please
+        use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Ready.jpg) of Sprite (Stessie - Ready) is using compressed format. To ensure
+        no loss in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Take Flight (ft. QORA).jpg) of Sprite (Stessie - Take Flight (ft. QORA))
+        is using compressed format. To ensure no loss in source pixel details when
+        packing to SpriteAtlas, please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Home EP.jpg) of Sprite (Stessie - Home EP) is using compressed format.
+        To ensure no loss in source pixel details when packing to SpriteAtlas, please
+        use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Together.jpg) of Sprite (Stessie - Together) is using compressed format.
+        To ensure no loss in source pixel details when packing to SpriteAtlas, please
+        use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Kotori
+        & Stessie - Bloom.jpg) of Sprite (Kotori & Stessie - Bloom) is using compressed
+        format. To ensure no loss in source pixel details when packing to SpriteAtlas,
+        please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Jim
+        Yosef & Stessie - Free.jpg) of Sprite (Jim Yosef & Stessie - Free) is using
+        compressed format. To ensure no loss in source pixel details when packing
+        to SpriteAtlas, please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - High.jpg) of Sprite (Stessie - High) is using compressed format. To ensure
+        no loss in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Puppet
+        - Cargo (Stessie Remix).jpg) of Sprite (Puppet - Cargo (Stessie Remix)) is
+        using compressed format. To ensure no loss in source pixel details when packing
+        to SpriteAtlas, please use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Far Away.jpg) of Sprite (Stessie - Far Away) is using compressed format.
+        To ensure no loss in source pixel details when packing to SpriteAtlas, please
+        use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Utopia EP.jpg) of Sprite (Stessie - Utopia EP) is using compressed format.
+        To ensure no loss in source pixel details when packing to SpriteAtlas, please
+        use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/dev.architech.protv/Samples/Playlists/Images/Stessie
+        - Atmosphere.jpg) of Sprite (Stessie - Atmosphere) is using compressed format.
+        To ensure no loss in source pixel details when packing to SpriteAtlas, please
+        use uncompressed format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Notification.png)
+        of Sprite (UI_Notification) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Arrow.png)
+        of Sprite (UI_Arrow) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_grab_on.png)
+        of Sprite (UI_grab_on) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Sound.png)
+        of Sprite (UI_Sound) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Delay_A.png)
+        of Sprite (UI_Delay_A) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Close.png)
+        of Sprite (UI_Close) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Replay_off.png)
+        of Sprite (UI_Replay_off) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_level.png)
+        of Sprite (UI_level) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Enter_list.png)
+        of Sprite (UI_Enter_list) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Enter_Play.png)
+        of Sprite (UI_Enter_Play) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Bright.png)
+        of Sprite (UI_Bright) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Delay_B.png)
+        of Sprite (UI_Delay_B) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Replay_single.png)
+        of Sprite (UI_Replay_single) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Pause.png)
+        of Sprite (UI_Pause) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_ReSync.png)
+        of Sprite (UI_ReSync) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Shuffle_off.png)
+        of Sprite (UI_Shuffle_off) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Sound_off.png)
+        of Sprite (UI_Sound_off) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Replay_list.png)
+        of Sprite (UI_Replay_list) is using compressed format. To ensure no loss
+        in source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Play.png)
+        of Sprite (UI_Play) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Check.png)
+        of Sprite (UI_Check) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_switch.png)
+        of Sprite (UI_switch) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Shuffle_on.png)
+        of Sprite (UI_Shuffle_on) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_grab_off.png)
+        of Sprite (UI_grab_off) is using compressed format. To ensure no loss in
+        source pixel details when packing to SpriteAtlas, please use uncompressed
+        format in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Stop.png)
+        of Sprite (UI_Stop) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Option.png)
+        of Sprite (UI_Option) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+    - type: 2
+      content: Source Texture (Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Frame.png)
+        of Sprite (UI_Frame) is using compressed format. To ensure no loss in source
+        pixel details when packing to SpriteAtlas, please use uncompressed format
+        in TextureImporter.
+  - stepName: Verify Build setup
+    durationTicks: 392946
+    depth: 3
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 413178
+    depth: 3
+    messages: []
+  - stepName: Prepare splash screen
+    durationTicks: 321466
+    depth: 3
+    messages:
+    - type: 3
+      content: Including Unity Splash Screen logo because 'Show Unity Logo' is enabled.
+  - stepName: Building scenes
+    durationTicks: 44017861
+    depth: 3
+    messages: []
+  - stepName: Building scene Assets/Scenes/VRCDefaultWorldScene.unity
+    durationTicks: 44017138
+    depth: 4
+    messages:
+    - type: 2
+      content: Storage for variable 'locked' of type 'UnityEngine.Sprite' did not
+        match, updated storage type
+    - type: 2
+      content: Storage for variable 'unlocked' of type 'UnityEngine.Sprite' did not
+        match, updated storage type
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '0579e2f7d1c57a241a07d45f6088960b'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '1099cbb6e22bfe74a93b71dfe7c428aa'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '0f3632a4c15254e4185e597a9b553015'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '8803f6df285e2fd48bbd0aeeb81ed533'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '2a34c3726f5aaca4c9b05004c07eb5c6'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '5893300e3f688004b9251878e312d460'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'b2329c06350f6d24ea49bc2842c81e99'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'e1b45160fe9957145826cfa2a86419a1'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '73571ae951ee35b479181d7ee4a4be25'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '2de31a7dfc5718c47aa82772c351b8a3'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'f6978e5f7a08f4047b4b9cf219efba6b'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'd5d0346a3148a584da4572e44316e658'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '19c6455fcf036f447a988be402108b3c'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '46df060d25eb3bc42be5fcfae616147c'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'c69b708d523a01b449b6ca21384d958c'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '4bfd9d9a0b7684c449d31b38065b43f4'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '3f7757f3a3e464644acd66ab61321b36'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '98cd88d0adb2e994a9e93d2efefa9eb4'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'aacda992b3a1dca4ea17ecbadc5cadf1'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'aaaeaa7ebc8e35a4e9ad1275785b2636'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset '0e78d0c5c758aaf4f9d0ace911a2c5d8'
+        to compressed format
+    - type: 3
+      content: Converting SerializedUdonProgramAsset 'db6380e7c98d9e94bb856b1e1b1cf56c'
+        to compressed format
+    - type: 3
+      content: Computed code signatures for 95 scripts of type SerializedUdonProgramAsset
+        in 19ms
+  - stepName: Writing asset files
+    durationTicks: 18575104
+    depth: 3
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-VRCDefaultWorldScene/BuildPlayer-VRCDefaultWorldScene.sharedAssets
+    durationTicks: 18469545
+    depth: 4
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 19379122
+    depth: 3
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 181288
+    depth: 3
+    messages: []
+  m_Appendices:
+  - {fileID: 232440046057243004}
+  - {fileID: 929829610096767775}
+  - {fileID: 998926520940776355}
+  - {fileID: -9061343544343078927}
+  - {fileID: -128242871684874992}
+  - {fileID: -7666407449819534835}
+--- !u!668709126 &232440046057243004
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-standalonewindows64-vrcdefaultworldscene-9295524f-aa6b-43dd-ab8a-2bec945ca647.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: nya media 2
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
+--- !u!1126 &929829610096767775
+PackedAssets:
+  m_ShortPath: BuildPlayer-VRCDefaultWorldScene.sharedAssets
+  m_Overhead: 157299
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 85
+    offset: 160272
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 142
+    packedSize: 212
+    offset: 160360
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 3
+    classID: 21
+    packedSize: 1756
+    offset: 160576
+    sourceAssetGUID: acb881f09f12c944d8dc9254a69ffd5c
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Medium SDF.asset
+  - fileID: 4
+    classID: 21
+    packedSize: 684
+    offset: 162336
+    sourceAssetGUID: db3c383881af9f144b3e8a7608872557
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/UI-MSDFNoCull.mat
+  - fileID: 5
+    classID: 21
+    packedSize: 912
+    offset: 163024
+    sourceAssetGUID: e34222a6758c0804d90ba090784e0d0c
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.mat
+  - fileID: 6
+    classID: 21
+    packedSize: 696
+    offset: 163936
+    sourceAssetGUID: cb3f20cfada12c047b547487b2bed515
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/SKY_UdonLab.mat
+  - fileID: 7
+    classID: 21
+    packedSize: 708
+    offset: 164632
+    sourceAssetGUID: 35630e38b4e5ffb40b44ec5348b4333f
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Editor/VRCSDK/SDK3/VRCSuperSampledUIMaterial.mat
+  - fileID: 8
+    classID: 21
+    packedSize: 1128
+    offset: 165344
+    sourceAssetGUID: 4935b24ea03e42d4f86e9c714b1b224d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Materials/ProTVHomeTheater.mat
+  - fileID: 9
+    classID: 21
+    packedSize: 696
+    offset: 166472
+    sourceAssetGUID: 2d4b915240258d24e9d5112b0cb13eab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Materials/SuperSampleUI.mat
+  - fileID: 10
+    classID: 21
+    packedSize: 576
+    offset: 167168
+    sourceAssetGUID: 83afd99a9c5be4c4ebc6d9b327ba8a5a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Materials/TVBlit.mat
+  - fileID: 11
+    classID: 21
+    packedSize: 1088
+    offset: 167744
+    sourceAssetGUID: f000a6231ee72da43b72352ee9a334b6
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/PowerEmission.mat
+  - fileID: 12
+    classID: 21
+    packedSize: 704
+    offset: 168832
+    sourceAssetGUID: 3bf904327f3691d4bb42f25b7695b629
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/SpeakerBase.mat
+  - fileID: 13
+    classID: 21
+    packedSize: 708
+    offset: 169536
+    sourceAssetGUID: 84f32e9136da30e4eb1122a69475d093
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/SpeakerTreble.mat
+  - fileID: 14
+    classID: 21
+    packedSize: 1104
+    offset: 170248
+    sourceAssetGUID: fb91514362a10c3418ef97fa1b97a3b8
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set.mat
+  - fileID: 15
+    classID: 21
+    packedSize: 684
+    offset: 171352
+    sourceAssetGUID: e42203bbd56a56046b2f2e5f9d905372
+    buildTimeAssetPath: Packages/idv.jlchntoz.vrcw-foundation/Materials/UI-MSDFNoCull.mat
+  - fileID: 16
+    classID: 21
+    packedSize: 644
+    offset: 172040
+    sourceAssetGUID: 605b81398af74b8439a437f68a18a85b
+    buildTimeAssetPath: Packages/idv.jlchntoz.vrcw-foundation/Materials/UI-NoCull.mat
+  - fileID: 17
+    classID: 21
+    packedSize: 116
+    offset: 172688
+    sourceAssetGUID: 5b5dbeef5a3594c488799aa48b7b7cb3
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Materials/VVMW/VideoBlit.mat
+  - fileID: 18
+    classID: 21
+    packedSize: 124
+    offset: 172808
+    sourceAssetGUID: c4c509a7538788a43a2b329fa9533fe0
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Materials/VVMW/VideoScreenGrabber.mat
+  - fileID: 19
+    classID: 21
+    packedSize: 428
+    offset: 172936
+    sourceAssetGUID: e81e61c053146804a88566fd5af86afa
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Materials/VVMW/VideoSurface.mat
+  - fileID: 20
+    classID: 21
+    packedSize: 148
+    offset: 173368
+    sourceAssetGUID: 088cf7162d0a81c46ad54028cfdcb382
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Fonts/Comfortaa-Regular.ttf
+  - fileID: 21
+    classID: 21
+    packedSize: 148
+    offset: 173520
+    sourceAssetGUID: 1f0c37826d30bfd47b75da1df1040435
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-VariableFont_wght.ttf
+  - fileID: 22
+    classID: 21
+    packedSize: 148
+    offset: 173672
+    sourceAssetGUID: 512e007e6523e8c4089b2ac192c0eb49
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Fonts/Comfortaa-Bold.ttf
+  - fileID: 23
+    classID: 21
+    packedSize: 148
+    offset: 173824
+    sourceAssetGUID: 799edbc28c64be34887c90400d9772a4
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Bold.ttf
+  - fileID: 24
+    classID: 21
+    packedSize: 148
+    offset: 173976
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 25
+    classID: 21
+    packedSize: 148
+    offset: 174128
+    sourceAssetGUID: ec200ed2e98ce944da416d81150fd9af
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Medium.ttf
+  - fileID: 26
+    classID: 21
+    packedSize: 2016
+    offset: 174280
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 27
+    classID: 21
+    packedSize: 2000
+    offset: 176296
+    sourceAssetGUID: b519371b370990c44a6e753ec694634c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/LiberationSans
+      SDF.asset
+  - fileID: 28
+    classID: 21
+    packedSize: 1756
+    offset: 178296
+    sourceAssetGUID: 0192c63d6e309e641b8f4983cb594509
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Bold SDF.asset
+  - fileID: 29
+    classID: 21
+    packedSize: 1760
+    offset: 180056
+    sourceAssetGUID: a78c1523e98c2e44580091e5d4d3d9b3
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-SemiBold SDF.asset
+  - fileID: 30
+    classID: 28
+    packedSize: 262288
+    offset: 181816
+    sourceAssetGUID: a78c1523e98c2e44580091e5d4d3d9b3
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-SemiBold SDF.asset
+  - fileID: 31
+    classID: 28
+    packedSize: 262284
+    offset: 444104
+    sourceAssetGUID: acb881f09f12c944d8dc9254a69ffd5c
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Medium SDF.asset
+  - fileID: 32
+    classID: 28
+    packedSize: 36756
+    offset: 706392
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in Texture2D: sactx-0-512x512-Crunch-Sprites-174e1688'
+  - fileID: 33
+    classID: 28
+    packedSize: 349712
+    offset: 743152
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in Texture2D: sactx-0-512x512-BC7-Sprites-MSDF-5738d896'
+  - fileID: 34
+    classID: 28
+    packedSize: 121996
+    offset: 1092864
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in Texture2D: sactx-0-2048x1024-Crunch-atlas_plain-8d2143e4'
+  - fileID: 35
+    classID: 28
+    packedSize: 5584
+    offset: 1214864
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 36
+    classID: 28
+    packedSize: 5588
+    offset: 1220448
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 37
+    classID: 28
+    packedSize: 5584
+    offset: 1226040
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 38
+    classID: 28
+    packedSize: 128
+    offset: 1231624
+    sourceAssetGUID: 01abd95bc275b454f9120f300635407c
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites/black.png
+  - fileID: 39
+    classID: 28
+    packedSize: 128
+    offset: 1231752
+    sourceAssetGUID: 088cf7162d0a81c46ad54028cfdcb382
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Fonts/Comfortaa-Regular.ttf
+  - fileID: 40
+    classID: 28
+    packedSize: 262264
+    offset: 1231880
+    sourceAssetGUID: 14ec65978aae2624b8753e7260143a74
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/X.png
+  - fileID: 41
+    classID: 28
+    packedSize: 128
+    offset: 1494144
+    sourceAssetGUID: 1f0c37826d30bfd47b75da1df1040435
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-VariableFont_wght.ttf
+  - fileID: 42
+    classID: 28
+    packedSize: 37004
+    offset: 1494272
+    sourceAssetGUID: 37e43e3f0b1abe84eae98e58a1fb0802
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Discord-Logo-3672773796.png
+  - fileID: 43
+    classID: 28
+    packedSize: 1048712
+    offset: 1531280
+    sourceAssetGUID: 39ab4493dd5100e4ab28fcba8a6dbf28
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set_Tv Set_Normal.png
+  - fileID: 44
+    classID: 28
+    packedSize: 262268
+    offset: 2579992
+    sourceAssetGUID: 3d011346bea83824a8585a8ccffad0a5
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/throbber.png
+  - fileID: 45
+    classID: 28
+    packedSize: 5612
+    offset: 2842264
+    sourceAssetGUID: 46d79e377ead0e046821c3c945a72f3e
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/UI_Frame.png
+  - fileID: 46
+    classID: 28
+    packedSize: 699196
+    offset: 2847880
+    sourceAssetGUID: 4b207ad243d524042a6e7ef66df29db4
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.png
+  - fileID: 47
+    classID: 28
+    packedSize: 128
+    offset: 3547080
+    sourceAssetGUID: 512e007e6523e8c4089b2ac192c0eb49
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Fonts/Comfortaa-Bold.ttf
+  - fileID: 48
+    classID: 28
+    packedSize: 349688
+    offset: 3547208
+    sourceAssetGUID: 5b83cfbfe3662af46a8e97a9e439f54b
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Logo_Square.png
+  - fileID: 49
+    classID: 28
+    packedSize: 262264
+    offset: 3896896
+    sourceAssetGUID: 6704d3abe1e600645943844cc7f26b41
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/pfp.png
+  - fileID: 50
+    classID: 28
+    packedSize: 262268
+    offset: 4159160
+    sourceAssetGUID: 6e7e890ec708474479d0cf3f6ff36d65
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/favicon.png
+  - fileID: 51
+    classID: 28
+    packedSize: 128
+    offset: 4421432
+    sourceAssetGUID: 799edbc28c64be34887c90400d9772a4
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Bold.ttf
+  - fileID: 52
+    classID: 28
+    packedSize: 262264
+    offset: 4421560
+    sourceAssetGUID: 8911fb6e91738344c9c79cb77de2668d
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/play.png
+  - fileID: 53
+    classID: 28
+    packedSize: 460944
+    offset: 4683824
+    sourceAssetGUID: 94539e7e21bb45845abfb01c223d3995
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Logo_16x9_SoundOnly.png
+  - fileID: 54
+    classID: 28
+    packedSize: 262272
+    offset: 5144768
+    sourceAssetGUID: 9b72628f505c1c84aaa2c0ab4acc7885
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/list-video.png
+  - fileID: 55
+    classID: 28
+    packedSize: 26348
+    offset: 5407040
+    sourceAssetGUID: a96dcbc361c749c47b3049e49cfda049
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set_Tv Set_AlbedoTransparency.png
+  - fileID: 56
+    classID: 28
+    packedSize: 102000
+    offset: 5433392
+    sourceAssetGUID: cf619a2b934b6954eba1be19ff97dc96
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set_Tv Set_MetallicSmoothness.png
+  - fileID: 57
+    classID: 28
+    packedSize: 262264
+    offset: 5535392
+    sourceAssetGUID: d01916d7c951df04a9f99c43f9f45d6f
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/info.png
+  - fileID: 58
+    classID: 28
+    packedSize: 11068
+    offset: 5797656
+    sourceAssetGUID: d14b25a3428b69c4aa2b9abe7833d724
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Discord.png
+  - fileID: 59
+    classID: 28
+    packedSize: 460932
+    offset: 5808728
+    sourceAssetGUID: d6ae13c32a86c834f94b322a545ca8ef
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Logo_16x9.png
+  - fileID: 60
+    classID: 28
+    packedSize: 128
+    offset: 6269664
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 61
+    classID: 28
+    packedSize: 128
+    offset: 6269792
+    sourceAssetGUID: ec200ed2e98ce944da416d81150fd9af
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Medium.ttf
+  - fileID: 62
+    classID: 28
+    packedSize: 43832
+    offset: 6269920
+    sourceAssetGUID: f59b015496eee7e478dceef8162c1177
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Group.png
+  - fileID: 63
+    classID: 28
+    packedSize: 262284
+    offset: 6313752
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 64
+    classID: 28
+    packedSize: 1048716
+    offset: 6576040
+    sourceAssetGUID: b519371b370990c44a6e753ec694634c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/LiberationSans
+      SDF.asset
+  - fileID: 65
+    classID: 28
+    packedSize: 262284
+    offset: 7624760
+    sourceAssetGUID: 0192c63d6e309e641b8f4983cb594509
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Bold SDF.asset
+  - fileID: 66
+    classID: 43
+    packedSize: 14588
+    offset: 7887048
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 67
+    classID: 43
+    packedSize: 16664
+    offset: 7901640
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 68
+    classID: 43
+    packedSize: 2116
+    offset: 7918304
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 69
+    classID: 43
+    packedSize: 16664
+    offset: 7920424
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 70
+    classID: 43
+    packedSize: 932
+    offset: 7937088
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 71
+    classID: 48
+    packedSize: 17324
+    offset: 7938024
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 72
+    classID: 48
+    packedSize: 25420
+    offset: 7955352
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 73
+    classID: 48
+    packedSize: 70104
+    offset: 7980776
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 74
+    classID: 48
+    packedSize: 10256
+    offset: 8050880
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 75
+    classID: 48
+    packedSize: 4440
+    offset: 8061136
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 76
+    classID: 48
+    packedSize: 4220
+    offset: 8065576
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 77
+    classID: 48
+    packedSize: 7772
+    offset: 8069800
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 78
+    classID: 48
+    packedSize: 55384
+    offset: 8077576
+    sourceAssetGUID: 02bd37a149eb24949bf986a6cedd92c8
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Shaders/VideoSurface.shader
+  - fileID: 79
+    classID: 48
+    packedSize: 18916
+    offset: 8132960
+    sourceAssetGUID: 0b7113dea2069fc4e8943843eff19f70
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-StandardLite.shader
+  - fileID: 80
+    classID: 48
+    packedSize: 16844
+    offset: 8151880
+    sourceAssetGUID: 1f57d898a11c4a44c9cbe5e46450134d
+    buildTimeAssetPath: Packages/idv.jlchntoz.vrcw-foundation/Shaders/UI-Modified.shader
+  - fileID: 81
+    classID: 48
+    packedSize: 8380
+    offset: 8168728
+    sourceAssetGUID: 2dcd9e0568e0a6f45b92c60ba2eb16a0
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Diffuse.shader
+  - fileID: 82
+    classID: 48
+    packedSize: 28232
+    offset: 8177112
+    sourceAssetGUID: 38d2be71b36142398c4d791645228f73
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Shaders/ProTVVideoScreen.shader
+  - fileID: 83
+    classID: 48
+    packedSize: 7688
+    offset: 8205344
+    sourceAssetGUID: 44c1b7c3827912f45b473dbe106c1ecf
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-SupersampledUnlit.shader
+  - fileID: 84
+    classID: 48
+    packedSize: 15040
+    offset: 8213032
+    sourceAssetGUID: 68e6db2ebdc24f95958faec2be5558d6
+    buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+  - fileID: 85
+    classID: 48
+    packedSize: 4352
+    offset: 8228072
+    sourceAssetGUID: ba3c4c4d4f48fc244a80fc6efc777525
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Shaders/VideoBlit.shader
+  - fileID: 86
+    classID: 48
+    packedSize: 8228
+    offset: 8232424
+    sourceAssetGUID: e21fadad3dbf61f4c8963f0ead664d94
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Shaders/ProTVBlit.shader
+  - fileID: 87
+    classID: 48
+    packedSize: 11928
+    offset: 8240656
+    sourceAssetGUID: fe393ace9b354375a9cb14cdbbc28be4
+    buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  - fileID: 88
+    classID: 74
+    packedSize: 2324
+    offset: 8252584
+    sourceAssetGUID: d566b860adbd10d438067debbe713b01
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/URL Input/URL Input.controller
+  - fileID: 89
+    classID: 74
+    packedSize: 2328
+    offset: 8254912
+    sourceAssetGUID: d566b860adbd10d438067debbe713b01
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/URL Input/URL Input.controller
+  - fileID: 90
+    classID: 74
+    packedSize: 2504
+    offset: 8257240
+    sourceAssetGUID: aceb246ee61a3c34e96a1758a7a9bbbe
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/spin loading.anim
+  - fileID: 91
+    classID: 74
+    packedSize: 2852
+    offset: 8259744
+    sourceAssetGUID: 53ad4fd869ff4fc4095e767e522a85a4
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/All
+      Hide.anim
+  - fileID: 92
+    classID: 74
+    packedSize: 2380
+    offset: 8262600
+    sourceAssetGUID: bda2cbe7a9fc1b441aad38127be6e1fc
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Options
+      Hide.anim
+  - fileID: 93
+    classID: 74
+    packedSize: 2380
+    offset: 8264984
+    sourceAssetGUID: e97f3252807ebae4da5afad3b939b964
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Options
+      Show.anim
+  - fileID: 94
+    classID: 74
+    packedSize: 2292
+    offset: 8267368
+    sourceAssetGUID: 67c77c45dd349624fba2382c20f5f422
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Progress
+      Active.anim
+  - fileID: 95
+    classID: 74
+    packedSize: 2296
+    offset: 8269664
+    sourceAssetGUID: 2260caa8e89e97449845fd8bf3eefae8
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Progress
+      Inactive.anim
+  - fileID: 96
+    classID: 74
+    packedSize: 2400
+    offset: 8271960
+    sourceAssetGUID: 4e825919a0247874c843b371bb37ef9f
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Progress
+      Loading.anim
+  - fileID: 97
+    classID: 74
+    packedSize: 3052
+    offset: 8274360
+    sourceAssetGUID: 39084e963711f4641a68ff181cf43544
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Stage
+      1.anim
+  - fileID: 98
+    classID: 74
+    packedSize: 3052
+    offset: 8277416
+    sourceAssetGUID: 430104c444ddd01408903ac7a1beb559
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Stage
+      2.anim
+  - fileID: 99
+    classID: 74
+    packedSize: 2416
+    offset: 8280472
+    sourceAssetGUID: a9f493bc301dd554595de9a84cb68e93
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Player Adjust/Speed-0.1x.anim
+  - fileID: 100
+    classID: 74
+    packedSize: 2412
+    offset: 8282888
+    sourceAssetGUID: 385a7dd5c24fb314b8df724513628a88
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Player Adjust/Speed-5x.anim
+  - fileID: 101
+    classID: 74
+    packedSize: 2748
+    offset: 8285304
+    sourceAssetGUID: 53db2b63b1d0ddb42bfe216435e74345
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Separated Screen Control/Enqueue.anim
+  - fileID: 102
+    classID: 74
+    packedSize: 2324
+    offset: 8288056
+    sourceAssetGUID: d566b860adbd10d438067debbe713b01
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/URL Input/URL Input.controller
+  - fileID: 103
+    classID: 74
+    packedSize: 2324
+    offset: 8290384
+    sourceAssetGUID: d566b860adbd10d438067debbe713b01
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/URL Input/URL Input.controller
+  - fileID: 104
+    classID: 74
+    packedSize: 2324
+    offset: 8292712
+    sourceAssetGUID: d566b860adbd10d438067debbe713b01
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/URL Input/URL Input.controller
+  - fileID: 105
+    classID: 91
+    packedSize: 436
+    offset: 8295040
+    sourceAssetGUID: 9d23ac62da1d52046b49aa66cc263108
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/throbber _shyfingies_.controller
+  - fileID: 106
+    classID: 91
+    packedSize: 5104
+    offset: 8295480
+    sourceAssetGUID: bda585b93ce9f5348b31b2a950812d59
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Overlay Screen Control/Overlay
+      Screen Control.controller
+  - fileID: 107
+    classID: 91
+    packedSize: 888
+    offset: 8300584
+    sourceAssetGUID: 667d5b463f2c481429e213cbfd3cb0cd
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/Player Adjust/Player
+      Adjust.controller
+  - fileID: 108
+    classID: 91
+    packedSize: 1856
+    offset: 8301472
+    sourceAssetGUID: d566b860adbd10d438067debbe713b01
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Animators/URL Input/URL Input.controller
+  - fileID: 109
+    classID: 115
+    packedSize: 120
+    offset: 156688
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 110
+    classID: 115
+    packedSize: 120
+    offset: 156808
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 111
+    classID: 115
+    packedSize: 92
+    offset: 156928
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 112
+    classID: 115
+    packedSize: 96
+    offset: 157024
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 113
+    classID: 115
+    packedSize: 116
+    offset: 157120
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 114
+    classID: 115
+    packedSize: 116
+    offset: 157240
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 115
+    classID: 115
+    packedSize: 100
+    offset: 157360
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 116
+    classID: 115
+    packedSize: 108
+    offset: 157464
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 117
+    classID: 115
+    packedSize: 92
+    offset: 157576
+    sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+  - fileID: 118
+    classID: 115
+    packedSize: 84
+    offset: 157672
+    sourceAssetGUID: 0d0b652f32a2cc243917e4028fa0f046
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Dropdown.cs
+  - fileID: 119
+    classID: 115
+    packedSize: 84
+    offset: 157760
+    sourceAssetGUID: 1344c3c82d62a2a41a3576d8abb8e3ea
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs
+  - fileID: 120
+    classID: 115
+    packedSize: 92
+    offset: 157848
+    sourceAssetGUID: 1aa08ab6e0800fa44ae55d278d1423e3
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs
+  - fileID: 121
+    classID: 115
+    packedSize: 92
+    offset: 157944
+    sourceAssetGUID: 2a4db7a114972834c8e4117be1d82ba3
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Scrollbar.cs
+  - fileID: 122
+    classID: 115
+    packedSize: 92
+    offset: 158040
+    sourceAssetGUID: 2fafe2cfe61f6974895a912c3755e8f1
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/ToggleGroup.cs
+  - fileID: 123
+    classID: 115
+    packedSize: 116
+    offset: 158136
+    sourceAssetGUID: 30649d3a9faa99c48a7b1166b86bf2a0
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs
+  - fileID: 124
+    classID: 115
+    packedSize: 100
+    offset: 158256
+    sourceAssetGUID: 306cc8c2b49d7114eaa3623786fc2126
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/LayoutElement.cs
+  - fileID: 125
+    classID: 115
+    packedSize: 76
+    offset: 158360
+    sourceAssetGUID: 31a19414c41e5ae4aae2af33fee712f6
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Mask.cs
+  - fileID: 126
+    classID: 115
+    packedSize: 108
+    offset: 158440
+    sourceAssetGUID: 3245ec927659c4140ac4f8d17403cc18
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/ContentSizeFitter.cs
+  - fileID: 127
+    classID: 115
+    packedSize: 84
+    offset: 158552
+    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
+  - fileID: 128
+    classID: 115
+    packedSize: 84
+    offset: 158640
+    sourceAssetGUID: 4e29b1a8efbd4b44bb3f3716e73f07ff
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
+  - fileID: 129
+    classID: 115
+    packedSize: 124
+    offset: 158728
+    sourceAssetGUID: 4f231c4fb786f3946a6b90b886c48677
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
+  - fileID: 130
+    classID: 115
+    packedSize: 108
+    offset: 158856
+    sourceAssetGUID: 59f8146938fff824cb5fd77236b75775
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/VerticalLayoutGroup.cs
+  - fileID: 131
+    classID: 115
+    packedSize: 76
+    offset: 158968
+    sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
+  - fileID: 132
+    classID: 115
+    packedSize: 108
+    offset: 159048
+    sourceAssetGUID: 638c870cac4da414fba921606d504407
+    buildTimeAssetPath: Assets/Samples/VizVid/1.4.9/AVPro Stubs/MediaPlayer.cs
+  - fileID: 133
+    classID: 115
+    packedSize: 84
+    offset: 159160
+    sourceAssetGUID: 67db9e8f0e2ae9c40bc1e2b64352a6b4
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Slider.cs
+  - fileID: 134
+    classID: 115
+    packedSize: 96
+    offset: 159248
+    sourceAssetGUID: 71c1514a6bd24e1e882cebbe1904ce04
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+  - fileID: 135
+    classID: 115
+    packedSize: 100
+    offset: 159344
+    sourceAssetGUID: 76c392e42b5098c458856cdf6ecaaaa1
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+  - fileID: 136
+    classID: 115
+    packedSize: 84
+    offset: 159448
+    sourceAssetGUID: 9085046f02f69544eb97fd06b6048fe2
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Toggle.cs
+  - fileID: 137
+    classID: 115
+    packedSize: 124
+    offset: 159536
+    sourceAssetGUID: bf61d954ecb803046953c666facfb904
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
+  - fileID: 138
+    classID: 115
+    packedSize: 100
+    offset: 159664
+    sourceAssetGUID: d0b148fe25e99eb48b9724523833bab1
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventTrigger.cs
+  - fileID: 139
+    classID: 115
+    packedSize: 92
+    offset: 159768
+    sourceAssetGUID: d199490a83bb2b844b9695cbf13b01ef
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
+  - fileID: 140
+    classID: 115
+    packedSize: 100
+    offset: 159864
+    sourceAssetGUID: dc42784cf147c0c48a680349fa168899
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+  - fileID: 141
+    classID: 115
+    packedSize: 96
+    offset: 159968
+    sourceAssetGUID: f4688fdb7df04437aeb418b961361dc5
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+  - fileID: 142
+    classID: 115
+    packedSize: 84
+    offset: 160064
+    sourceAssetGUID: fe87c0e1cc204ed48ad3b37840f39efc
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+  - fileID: 143
+    classID: 115
+    packedSize: 120
+    offset: 160152
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 144
+    classID: 128
+    packedSize: 135450
+    offset: 8303328
+    sourceAssetGUID: 088cf7162d0a81c46ad54028cfdcb382
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Fonts/Comfortaa-Regular.ttf
+  - fileID: 145
+    classID: 128
+    packedSize: 167298
+    offset: 8438784
+    sourceAssetGUID: 1f0c37826d30bfd47b75da1df1040435
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-VariableFont_wght.ttf
+  - fileID: 146
+    classID: 128
+    packedSize: 135046
+    offset: 8606088
+    sourceAssetGUID: 512e007e6523e8c4089b2ac192c0eb49
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Fonts/Comfortaa-Bold.ttf
+  - fileID: 147
+    classID: 128
+    packedSize: 96922
+    offset: 8741136
+    sourceAssetGUID: 799edbc28c64be34887c90400d9772a4
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Bold.ttf
+  - fileID: 148
+    classID: 128
+    packedSize: 352462
+    offset: 8838064
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 149
+    classID: 128
+    packedSize: 97030
+    offset: 9190528
+    sourceAssetGUID: ec200ed2e98ce944da416d81150fd9af
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Medium.ttf
+  - fileID: 150
+    classID: 213
+    packedSize: 508
+    offset: 9287560
+    sourceAssetGUID: 3ae3251004e02da44b8784356228b558
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Notification.png
+  - fileID: 151
+    classID: 213
+    packedSize: 476
+    offset: 9288072
+    sourceAssetGUID: 1d710f0fe3a74c241bac92ad96070929
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Frame.png
+  - fileID: 152
+    classID: 213
+    packedSize: 460
+    offset: 9288552
+    sourceAssetGUID: 46d79e377ead0e046821c3c945a72f3e
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/UI_Frame.png
+  - fileID: 153
+    classID: 213
+    packedSize: 568
+    offset: 9289016
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 154
+    classID: 213
+    packedSize: 572
+    offset: 9289584
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 155
+    classID: 213
+    packedSize: 516
+    offset: 9290160
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 156
+    classID: 213
+    packedSize: 2996
+    offset: 9290680
+    sourceAssetGUID: 00e0f06bf2abb124c93e3b4ecf0bda24
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_www.png
+  - fileID: 157
+    classID: 213
+    packedSize: 672
+    offset: 9293680
+    sourceAssetGUID: 02a4e51b74123324db8b1db398212d20
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_plus.png
+  - fileID: 158
+    classID: 213
+    packedSize: 440
+    offset: 9294352
+    sourceAssetGUID: 03593bd430662ed42b1ec30e399d307e
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Close.png
+  - fileID: 159
+    classID: 213
+    packedSize: 440
+    offset: 9294792
+    sourceAssetGUID: 0dc1ee037a83e3f4a98df64428a9c209
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Sound.png
+  - fileID: 160
+    classID: 213
+    packedSize: 440
+    offset: 9295232
+    sourceAssetGUID: 10d7182a9648dd24281436e58a8110e9
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Logo.png
+  - fileID: 161
+    classID: 213
+    packedSize: 844
+    offset: 9295672
+    sourceAssetGUID: 14ec65978aae2624b8753e7260143a74
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/X.png
+  - fileID: 162
+    classID: 213
+    packedSize: 988
+    offset: 9296520
+    sourceAssetGUID: 1532ebe1028d83748967971ae66414f9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_waypoint.png
+  - fileID: 163
+    classID: 213
+    packedSize: 448
+    offset: 9297512
+    sourceAssetGUID: 1556cb997ad24144997af9fda3d03ff2
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Replay_single.png
+  - fileID: 164
+    classID: 213
+    packedSize: 1160
+    offset: 9297960
+    sourceAssetGUID: 168677d7011577d41b1cc3d52d9335c5
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites/Credits/vistanz.png
+  - fileID: 165
+    classID: 213
+    packedSize: 1732
+    offset: 9299120
+    sourceAssetGUID: 1697a18316a63c247b78c5f708b80dd9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_3dwidthhalf.png
+  - fileID: 166
+    classID: 213
+    packedSize: 1304
+    offset: 9300856
+    sourceAssetGUID: 18c7c95654c3f6842a4dea301fc4564e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_mid.png
+  - fileID: 167
+    classID: 213
+    packedSize: 940
+    offset: 9302160
+    sourceAssetGUID: 1a39e4f4b8100d24ab58865d9e4d0e1a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_double.png
+  - fileID: 168
+    classID: 213
+    packedSize: 448
+    offset: 9303104
+    sourceAssetGUID: 1c31274e85f64dd46a5487b1fa540e6c
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Shuffle_on.png
+  - fileID: 169
+    classID: 213
+    packedSize: 1452
+    offset: 9303552
+    sourceAssetGUID: 1d1e4114aa0106746b1b2e2a7d392690
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_spin.png
+  - fileID: 170
+    classID: 213
+    packedSize: 1048
+    offset: 9305008
+    sourceAssetGUID: 1e20ed2e8cb6ccd4682e7dfbb4ad9d43
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_menu.png
+  - fileID: 171
+    classID: 213
+    packedSize: 1676
+    offset: 9306056
+    sourceAssetGUID: 21235ca3bc28a994bb39983987e5ec74
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_link.png
+  - fileID: 172
+    classID: 213
+    packedSize: 1060
+    offset: 9307736
+    sourceAssetGUID: 24aee5808fa9c8a47bcc7adc85a0d7ec
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_loop.png
+  - fileID: 173
+    classID: 213
+    packedSize: 676
+    offset: 9308800
+    sourceAssetGUID: 28f10292b85333a4093d63d6c55de696
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_close.png
+  - fileID: 174
+    classID: 213
+    packedSize: 440
+    offset: 9309480
+    sourceAssetGUID: 2bf5ccff57c319b4093ac1dde810e309
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Stop.png
+  - fileID: 175
+    classID: 213
+    packedSize: 1068
+    offset: 9309920
+    sourceAssetGUID: 2e5ac2020cff4774fa7b636f8f39589e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_information.png
+  - fileID: 176
+    classID: 213
+    packedSize: 1200
+    offset: 9310992
+    sourceAssetGUID: 30bf3be3e67dd4541a7ffe6c46655b98
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_mask_circle.png
+  - fileID: 177
+    classID: 213
+    packedSize: 620
+    offset: 9312192
+    sourceAssetGUID: 31b06b170ce7711428d4e6e35dfeee7f
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Bright.png
+  - fileID: 178
+    classID: 213
+    packedSize: 1856
+    offset: 9312816
+    sourceAssetGUID: 33b1200dc838754498c32d6508f161c9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_music_off.png
+  - fileID: 179
+    classID: 213
+    packedSize: 1016
+    offset: 9314672
+    sourceAssetGUID: 374d366671c3235438f9efc9af92633a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_gear.png
+  - fileID: 180
+    classID: 213
+    packedSize: 1140
+    offset: 9315688
+    sourceAssetGUID: 37e43e3f0b1abe84eae98e58a1fb0802
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Discord-Logo-3672773796.png
+  - fileID: 181
+    classID: 213
+    packedSize: 444
+    offset: 9316832
+    sourceAssetGUID: 3aa0f984f7b48794e96869b924694a0a
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Delay_A.png
+  - fileID: 182
+    classID: 213
+    packedSize: 884
+    offset: 9317280
+    sourceAssetGUID: 3c345559a52a29d46a4453dcbb4ee61c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_share.png
+  - fileID: 183
+    classID: 213
+    packedSize: 564
+    offset: 9318168
+    sourceAssetGUID: 3c9385fd50bb79147837ab583d49769d
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_switch.png
+  - fileID: 184
+    classID: 213
+    packedSize: 1984
+    offset: 9318736
+    sourceAssetGUID: 3d011346bea83824a8585a8ccffad0a5
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/throbber.png
+  - fileID: 185
+    classID: 213
+    packedSize: 1208
+    offset: 9320720
+    sourceAssetGUID: 3f3aaab5fb3d1084aba70b29a2ad8f46
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites/Credits/YamaButa.png
+  - fileID: 186
+    classID: 213
+    packedSize: 568
+    offset: 9321928
+    sourceAssetGUID: 41f72aa94ddafce449bb57846660b3b7
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_OptionFrame.png
+  - fileID: 187
+    classID: 213
+    packedSize: 840
+    offset: 9322496
+    sourceAssetGUID: 46ccd97705f002046827828ca9845891
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_previous.png
+  - fileID: 188
+    classID: 213
+    packedSize: 448
+    offset: 9323336
+    sourceAssetGUID: 47fbf9ab8c7c0aa499209df7b6377bc3
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Shuffle_off.png
+  - fileID: 189
+    classID: 213
+    packedSize: 752
+    offset: 9323784
+    sourceAssetGUID: 4c7e870d07397234f8a017e11e71da3b
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_diagonal.png
+  - fileID: 190
+    classID: 213
+    packedSize: 440
+    offset: 9324536
+    sourceAssetGUID: 536edc40e547845429a5e510930f3fc7
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Arrow.png
+  - fileID: 191
+    classID: 213
+    packedSize: 1220
+    offset: 9324976
+    sourceAssetGUID: 566bc536c212f3742a54eb85fd171f18
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_headphone.png
+  - fileID: 192
+    classID: 213
+    packedSize: 1080
+    offset: 9326200
+    sourceAssetGUID: 57ded7ab267a09741b7bc0572f9089ea
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_music_on.png
+  - fileID: 193
+    classID: 213
+    packedSize: 448
+    offset: 9327280
+    sourceAssetGUID: 5ea2bef4ef7e4d24b85faa8c8f17cf9f
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Replay_off.png
+  - fileID: 194
+    classID: 213
+    packedSize: 1768
+    offset: 9327728
+    sourceAssetGUID: 60d0daa1d033b3e478f9571c15c552c2
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_high.png
+  - fileID: 195
+    classID: 213
+    packedSize: 580
+    offset: 9329496
+    sourceAssetGUID: 64b2fc0b9d5eb2a4fbe3254683250246
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_minus.png
+  - fileID: 196
+    classID: 213
+    packedSize: 732
+    offset: 9330080
+    sourceAssetGUID: 6593fc1d84955e0409ba09892bc57cde
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_label.png
+  - fileID: 197
+    classID: 213
+    packedSize: 796
+    offset: 9330816
+    sourceAssetGUID: 6663178faa69b664eb9f46c77e745163
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_grab_off.png
+  - fileID: 198
+    classID: 213
+    packedSize: 3016
+    offset: 9331616
+    sourceAssetGUID: 6704d3abe1e600645943844cc7f26b41
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/pfp.png
+  - fileID: 199
+    classID: 213
+    packedSize: 1012
+    offset: 9334632
+    sourceAssetGUID: 67223e039534cb146913c0c343932a65
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_download.png
+  - fileID: 200
+    classID: 213
+    packedSize: 576
+    offset: 9335648
+    sourceAssetGUID: 6a1702b603353a1499f929c72ce23a00
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Enter_Play.png
+  - fileID: 201
+    classID: 213
+    packedSize: 5216
+    offset: 9336224
+    sourceAssetGUID: 6e7e890ec708474479d0cf3f6ff36d65
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/favicon.png
+  - fileID: 202
+    classID: 213
+    packedSize: 616
+    offset: 9341440
+    sourceAssetGUID: 7afaab279ebb15f4b996c57d126e5617
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_camera_video.png
+  - fileID: 203
+    classID: 213
+    packedSize: 892
+    offset: 9342056
+    sourceAssetGUID: 7c227ea44cfccb8408585aac2d53f54c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_home.png
+  - fileID: 204
+    classID: 213
+    packedSize: 1900
+    offset: 9342952
+    sourceAssetGUID: 7d79f67e26ecc9c47ac0e11573f6d90f
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_list.png
+  - fileID: 205
+    classID: 213
+    packedSize: 912
+    offset: 9344856
+    sourceAssetGUID: 850c2763995331747b5cd1fd2dda41e9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_sliders.png
+  - fileID: 206
+    classID: 213
+    packedSize: 1268
+    offset: 9345768
+    sourceAssetGUID: 85d6374995f7c014db79497d98a70c78
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Option.png
+  - fileID: 207
+    classID: 213
+    packedSize: 440
+    offset: 9347040
+    sourceAssetGUID: 87b94c8047ee24649b0221945846d475
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites/UI_Fade_A.png
+  - fileID: 208
+    classID: 213
+    packedSize: 980
+    offset: 9347480
+    sourceAssetGUID: 87fb4adca8f753e4fa1a744be41fb40d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_chevron_double.png
+  - fileID: 209
+    classID: 213
+    packedSize: 2516
+    offset: 9348464
+    sourceAssetGUID: 8911fb6e91738344c9c79cb77de2668d
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/play.png
+  - fileID: 210
+    classID: 213
+    packedSize: 472
+    offset: 9350984
+    sourceAssetGUID: 8b1c6bf2aa9b0c44d8709ca44fbd00a0
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites/white.png
+  - fileID: 211
+    classID: 213
+    packedSize: 960
+    offset: 9351456
+    sourceAssetGUID: 95cd5a1abb0d489419b6ab9d7e5db2a9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_lock_closed.png
+  - fileID: 212
+    classID: 213
+    packedSize: 476
+    offset: 9352416
+    sourceAssetGUID: 9631db55fdd544947aeb59627eaa210f
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites/UI_TimeLine.png
+  - fileID: 213
+    classID: 213
+    packedSize: 444
+    offset: 9352896
+    sourceAssetGUID: 9a21022c0d348ff499806403436469f6
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Sound_off.png
+  - fileID: 214
+    classID: 213
+    packedSize: 1868
+    offset: 9353344
+    sourceAssetGUID: 9b72628f505c1c84aaa2c0ab4acc7885
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/list-video.png
+  - fileID: 215
+    classID: 213
+    packedSize: 752
+    offset: 9355216
+    sourceAssetGUID: 9b89f843134267f43a3f55edab76179a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_send.png
+  - fileID: 216
+    classID: 213
+    packedSize: 872
+    offset: 9355968
+    sourceAssetGUID: 9ca135e4b19996e4c94869d682461aef
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_checkmark.png
+  - fileID: 217
+    classID: 213
+    packedSize: 1128
+    offset: 9356840
+    sourceAssetGUID: a31c7748a9b3a0e40ab38b84ebbf0364
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_doubleloop.png
+  - fileID: 218
+    classID: 213
+    packedSize: 700
+    offset: 9357968
+    sourceAssetGUID: a93ee5f60463399418402f0a32881596
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_graph_exponential.png
+  - fileID: 219
+    classID: 213
+    packedSize: 944
+    offset: 9358672
+    sourceAssetGUID: aca982d1b9c097a45816719c08ef2f7e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_lock_open.png
+  - fileID: 220
+    classID: 213
+    packedSize: 444
+    offset: 9359616
+    sourceAssetGUID: ae65152804ea10a409d1edd8f7e24baa
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Delay_B.png
+  - fileID: 221
+    classID: 213
+    packedSize: 528
+    offset: 9360064
+    sourceAssetGUID: b0eae3148ca2d3842ae4a93e55366826
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_stop.png
+  - fileID: 222
+    classID: 213
+    packedSize: 620
+    offset: 9360592
+    sourceAssetGUID: b140b88491809884684fa968e20b676e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_graph_linear.png
+  - fileID: 223
+    classID: 213
+    packedSize: 888
+    offset: 9361216
+    sourceAssetGUID: b292185c0dbaeb747a9e86348e0e5c3e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_off.png
+  - fileID: 224
+    classID: 213
+    packedSize: 720
+    offset: 9362104
+    sourceAssetGUID: b2a8c876296fd5846a08d1ae5994907f
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Enter_list.png
+  - fileID: 225
+    classID: 213
+    packedSize: 908
+    offset: 9362824
+    sourceAssetGUID: b54524306c7ab234d8aea49f9389c38d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_single.png
+  - fileID: 226
+    classID: 213
+    packedSize: 448
+    offset: 9363736
+    sourceAssetGUID: b6259a5c909957a488f28f26c6b6d8df
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Replay_list.png
+  - fileID: 227
+    classID: 213
+    packedSize: 2164
+    offset: 9364184
+    sourceAssetGUID: b8d461c48d026374391bb44790a7e29c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_link_broken.png
+  - fileID: 228
+    classID: 213
+    packedSize: 604
+    offset: 9366352
+    sourceAssetGUID: c00b479e76f8f8749be23fd412e94a3d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_play.png
+  - fileID: 229
+    classID: 213
+    packedSize: 632
+    offset: 9366960
+    sourceAssetGUID: c5328dd3eb621ab4597f717c1e00828d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_chevron.png
+  - fileID: 230
+    classID: 213
+    packedSize: 440
+    offset: 9367592
+    sourceAssetGUID: c585e0772e2d3d84e827ce49f6c00699
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites/UI_Fade_B.png
+  - fileID: 231
+    classID: 213
+    packedSize: 544
+    offset: 9368032
+    sourceAssetGUID: ce8194118455f0d47842edec4628d702
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_grab_on.png
+  - fileID: 232
+    classID: 213
+    packedSize: 4112
+    offset: 9368576
+    sourceAssetGUID: d01916d7c951df04a9f99c43f9f45d6f
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/info.png
+  - fileID: 233
+    classID: 213
+    packedSize: 908
+    offset: 9372688
+    sourceAssetGUID: d0f829b32fa796e4489a37783db82512
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_low.png
+  - fileID: 234
+    classID: 213
+    packedSize: 440
+    offset: 9373600
+    sourceAssetGUID: d1d9065519fdee040901ab9e82d37df9
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Next.png
+  - fileID: 235
+    classID: 213
+    packedSize: 816
+    offset: 9374040
+    sourceAssetGUID: d70ecbac36f14e944992845f708dac95
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_trash.png
+  - fileID: 236
+    classID: 213
+    packedSize: 764
+    offset: 9374856
+    sourceAssetGUID: d910c8063a1efa6478d1d5ccbda5e28b
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_level.png
+  - fileID: 237
+    classID: 213
+    packedSize: 884
+    offset: 9375624
+    sourceAssetGUID: dbc37e4c15ed4754e898e01620db6257
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_next.png
+  - fileID: 238
+    classID: 213
+    packedSize: 440
+    offset: 9376512
+    sourceAssetGUID: dcf8686c3b88b7c49b726290457504cc
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Play.png
+  - fileID: 239
+    classID: 213
+    packedSize: 1704
+    offset: 9376952
+    sourceAssetGUID: de2f5df3e7a870c40a08095eff436651
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_3dwidthfull.png
+  - fileID: 240
+    classID: 213
+    packedSize: 608
+    offset: 9378656
+    sourceAssetGUID: f259e71b6fdb2764f92ba0d32b176d4b
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_ReSync.png
+  - fileID: 241
+    classID: 213
+    packedSize: 440
+    offset: 9379264
+    sourceAssetGUID: f351fe7a60c51e544b6f8e11945456c1
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Pause.png
+  - fileID: 242
+    classID: 213
+    packedSize: 780
+    offset: 9379704
+    sourceAssetGUID: f445dd123df9a7b46a5995dd69691819
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_pause.png
+  - fileID: 243
+    classID: 213
+    packedSize: 1196
+    offset: 9380488
+    sourceAssetGUID: f6225244deff3694eb5ff6a34082db5f
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_mute.png
+  - fileID: 244
+    classID: 213
+    packedSize: 440
+    offset: 9381688
+    sourceAssetGUID: fa66d09ce44dbd14e9de55a687d802cb
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_Check.png
+  - fileID: 245
+    classID: 213
+    packedSize: 444
+    offset: 9382128
+    sourceAssetGUID: ffaef788ec158144b8a203d98457d5ba
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF/UI_ArrowUp.png
+  - fileID: 246
+    classID: 687078895
+    packedSize: 6772
+    offset: 9382576
+    sourceAssetGUID: 35336aaf761d21645b0cccaa324ea2c1
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/atlas_plain.spriteatlas
+  - fileID: 247
+    classID: 687078895
+    packedSize: 4120
+    offset: 9389352
+    sourceAssetGUID: 6ea8234206151724f82481835daacf89
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites-MSDF.spriteatlas
+  - fileID: 248
+    classID: 687078895
+    packedSize: 844
+    offset: 9393472
+    sourceAssetGUID: 0cfe5e7c65700da4a9e297dff84d611c
+    buildTimeAssetPath: Packages/idv.jlchntoz.vvmw/Textures/Sprites.spriteatlas
+  - fileID: 249
+    classID: 114
+    packedSize: 10056
+    offset: 9394320
+    sourceAssetGUID: 0192c63d6e309e641b8f4983cb594509
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Bold SDF.asset
+  - fileID: 250
+    classID: 114
+    packedSize: 9984
+    offset: 9404376
+    sourceAssetGUID: acb881f09f12c944d8dc9254a69ffd5c
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-Medium SDF.asset
+  - fileID: 251
+    classID: 114
+    packedSize: 10128
+    offset: 9414360
+    sourceAssetGUID: a78c1523e98c2e44580091e5d4d3d9b3
+    buildTimeAssetPath: Assets/MediaUI/UI Assets/Manrope-SemiBold SDF.asset
+  - fileID: 252
+    classID: 114
+    packedSize: 5272
+    offset: 9424488
+    sourceAssetGUID: 6d7ae9a1e5fa88942b5ccef6c616aed4
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/0c158e38abdf50244a9ebbfbe0ce90a5.asset
+  - fileID: 253
+    classID: 114
+    packedSize: 3604
+    offset: 9429760
+    sourceAssetGUID: 28b11d4a37fe4c042bad6ba8561b37ef
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/1ee2a343b43132e449e23a97b950f584.asset
+  - fileID: 254
+    classID: 114
+    packedSize: 16716
+    offset: 9433368
+    sourceAssetGUID: 81a9ce0eee99bc246a8c4b5ec754360a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/271473fa6da89404181a3a567bbc3cc1.asset
+  - fileID: 255
+    classID: 114
+    packedSize: 10056
+    offset: 9450088
+    sourceAssetGUID: 3e898335ce4640d4dbecf64863fa4135
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/33049f9416a28f8449c809186410794d.asset
+  - fileID: 256
+    classID: 114
+    packedSize: 3516
+    offset: 9460144
+    sourceAssetGUID: 7b3feb48ab008f0428ef2a7ca5a7e6f0
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/3a80eaf27eb0a914e89c04127291ac7d.asset
+  - fileID: 257
+    classID: 114
+    packedSize: 35792
+    offset: 9463664
+    sourceAssetGUID: 72f06142fee707d409849902d2fd0ebc
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/3e38dbd9190c0bd408cb563c52cff01e.asset
+  - fileID: 258
+    classID: 114
+    packedSize: 16596
+    offset: 9499456
+    sourceAssetGUID: 6e1bde362bd5eb5408c50da28ed406dd
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/441ee78a9f45d3e41bbc303833999b48.asset
+  - fileID: 259
+    classID: 114
+    packedSize: 19592
+    offset: 9516056
+    sourceAssetGUID: d8f438991ac12834e99b31e67dd80097
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4441ca2fa614aad4b82e0296e1fc8af5.asset
+  - fileID: 260
+    classID: 114
+    packedSize: 7168
+    offset: 9535648
+    sourceAssetGUID: f9094eff3d612e4419e74ce558f144f9
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/495a12e49c928894c901d5f1e924f6bb.asset
+  - fileID: 261
+    classID: 114
+    packedSize: 59280
+    offset: 9542816
+    sourceAssetGUID: d257cc79e9c37514789a6d30363d6c4c
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4ac0e45cbc1ff924e9b1cb9555e51afb.asset
+  - fileID: 262
+    classID: 114
+    packedSize: 2900
+    offset: 9602096
+    sourceAssetGUID: 3a186ba42c64f554092ac3b288cca70b
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/566cc00e27d5822449529a3785eae366.asset
+  - fileID: 263
+    classID: 114
+    packedSize: 5716
+    offset: 9605000
+    sourceAssetGUID: 6399945ac09a4f74cb69edeef84bbb59
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/70510451d618e2b47b0ebf3f76457fd9.asset
+  - fileID: 264
+    classID: 114
+    packedSize: 2508
+    offset: 9610720
+    sourceAssetGUID: acfc33b88b24ceb449cf232b752a44ed
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/73a663ba6bf81e64abcd7a59f6a46682.asset
+  - fileID: 265
+    classID: 114
+    packedSize: 1920
+    offset: 9613232
+    sourceAssetGUID: 774287cc95fd3ba40aa8eea5b67ce6a4
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/750ddd476b4603a4e93c6295714cb160.asset
+  - fileID: 266
+    classID: 114
+    packedSize: 120428
+    offset: 9615152
+    sourceAssetGUID: 6ad5a01d3397c3742ab879d10f8f0fbc
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/758b3974dc10ae445a6ce060183f4682.asset
+  - fileID: 267
+    classID: 114
+    packedSize: 7972
+    offset: 9735584
+    sourceAssetGUID: 92f71dd14eb2a0f4184c9daa7b7f88c8
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/954c198ace0b97443bb2570ff13e2245.asset
+  - fileID: 268
+    classID: 114
+    packedSize: 6956
+    offset: 9743560
+    sourceAssetGUID: cebbebb3ca434f245bb8b55de10e197a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/9c475c9f6a10b79458fbb1eed517090b.asset
+  - fileID: 269
+    classID: 114
+    packedSize: 41892
+    offset: 9750520
+    sourceAssetGUID: fff4d79f3f1f64f42a568774ff69887d
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/a4a01281decbeb74c84abf1a35013fb8.asset
+  - fileID: 270
+    classID: 114
+    packedSize: 3112
+    offset: 9792416
+    sourceAssetGUID: 1f44ab0b04959af4a84ddc6b956d8d8f
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/afa47a47857e18146a6d82c9ea50c6b0.asset
+  - fileID: 271
+    classID: 114
+    packedSize: 1720
+    offset: 9795528
+    sourceAssetGUID: bce11b842936bb9489377134a46024f9
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
+  - fileID: 272
+    classID: 114
+    packedSize: 31144
+    offset: 9797248
+    sourceAssetGUID: 00c0111bfec18454bb6062d4b9a12253
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/cf985a8138eb084478148919e707d6aa.asset
+  - fileID: 273
+    classID: 114
+    packedSize: 7400
+    offset: 9828392
+    sourceAssetGUID: 3bdf5e58003e9cb4696023dbd20fb39f
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d043e2e6bf10c2b44ae2ce8b11c50951.asset
+  - fileID: 274
+    classID: 114
+    packedSize: 12960
+    offset: 9835792
+    sourceAssetGUID: 5eedac82088acb941b80f006ea24e7bb
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d049d579e8aa07c47a07b34716a5ddf6.asset
+  - fileID: 275
+    classID: 114
+    packedSize: 43972
+    offset: 9848752
+    sourceAssetGUID: 17ecaf54728af794fb824559f3ab9554
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d1aa1baadd23ef649877604968d0739f.asset
+  - fileID: 276
+    classID: 114
+    packedSize: 10704
+    offset: 9892728
+    sourceAssetGUID: 5d2dd7cc1a44771478a112db1da89e7a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/db55ef65924099e4b89889563282a980.asset
+  - fileID: 277
+    classID: 114
+    packedSize: 1188
+    offset: 9903432
+    sourceAssetGUID: 1a573c22b6fa93a4fb55c3dea6741f89
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/de60ddc20a646434fb65e4e8729789d9.asset
+  - fileID: 278
+    classID: 114
+    packedSize: 45472
+    offset: 9904624
+    sourceAssetGUID: d2c2b3b7092f1f34a9d6e717c1da0ffc
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/eda93d1964c87b94194c141e9365fdec.asset
+  - fileID: 279
+    classID: 114
+    packedSize: 3924
+    offset: 9950096
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 280
+    classID: 114
+    packedSize: 28764
+    offset: 9954024
+    sourceAssetGUID: b519371b370990c44a6e753ec694634c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/LiberationSans
+      SDF.asset
+--- !u!382020655 &998926520940776355
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - VRC.Udon.VM
+  - VRC.SDK3.Dynamics.PhysBone
+  - VRC.Udon.Security
+  - libvrc_fast_crypto
+  - VRCEconomy
+  - libvrc_image_loader
+  - YamlDotNet
+  - VRCSDK3
+  - nunit.framework
+  - VRCCore-Editor
+  - Serilog.Sinks.File
+  - vrc_fast_crypto
+  - VRC.SDK3.Dynamics.Contact
+  - System.Collections.Immutable
+  - OculusXRPlugin
+  - VRC.Udon.Wrapper
+  - vrc_image_loader
+  - Unity.Burst.Unsafe
+  - SemanticVersioning
+  - librsync.net
+  - OVRPlugin
+  - System.Runtime.CompilerServices.Unsafe
+  - Newtonsoft.Json
+  - Unity.Collections.LowLevel.ILSupport
+  - VRC.Udon.Common
+  - VRC.Udon.VRCWrapperModules
+  - VRC.Dynamics
+  - VRCSDKBase
+  - VRC.Utility
+  - portmidi
+  - VRC.Udon.ClientBindings
+  - SDKBase-Legacy
+  - Blake2Sharp
+  - VRC.SDK3.Dynamics.Constraint
+  - System.Text.Encoding.CodePages
+  - Serilog
+  - Collections.Pooled
+  - AudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - VRC.Udon.VRCGraphModules
+  - VRC.Udon.EditorBindings
+  - 0Harmony
+  - VRC.SDK3.Dynamics.Contact.Editor
+  - libvrc_shader_compiler_plugin
+  - Mono.Cecil.Pdb
+  - JetBrains.Rider.PathLocator
+  - vrc_shader_compiler_plugin
+  - VRCSDKBase-Editor
+  - Microsoft.CodeAnalysis.CSharp
+  - VRC.Udon.VRCTypeResolverModules
+  - VRCEconomy-Editor
+  - ICSharpCode.SharpZipLib
+  - VRC.SDK3.Dynamics.Constraint.Editor
+  - AppleEventIntegration
+  - Mono.Cecil
+  - VRC.Udon.Graph
+  - Unity.Burst.Cecil.Pdb
+  - Mono.Cecil.Rocks
+  - Microsoft.CodeAnalysis
+  - VRC.Udon.Compiler
+  - System.Reflection.Metadata
+  - VRCSDK3-Editor
+  - Mono.Cecil.Mdb
+  - Serilog.Sinks.Unity3D
+  - Algolia.Search
+  - Unity.Burst.Cecil.Mdb
+  - VRC.SDK3.Dynamics.PhysBone.Editor
+  - Unity.Burst.Cecil
+  - Unity.Burst.Cecil.Rocks
+  - vpm-core-lib
+  - VRC.Udon.UAssembly

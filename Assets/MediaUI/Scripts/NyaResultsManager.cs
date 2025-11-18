@@ -63,9 +63,9 @@ namespace Arti
 
 
             resultsInfoText.text = "";
-            throbber.SetActive(true);
             ClearScrollviewContent();
 
+            throbber.SetActive(true);
             VRCStringDownloader.LoadUrl(moviesTopURL, (IUdonEventReceiver)this);
         }
 
@@ -82,11 +82,10 @@ namespace Arti
             UpdateSearchInputField();
 
             resultsInfoText.text = "";
-            throbber.SetActive(true);
             ClearScrollviewContent();
 
+            throbber.SetActive(true);
             VRCStringDownloader.LoadUrl(tvTopURL, (IUdonEventReceiver)this);
-
         }
 
         public void Anime()
@@ -102,11 +101,10 @@ namespace Arti
             UpdateSearchInputField();
 
             resultsInfoText.text = "";
-            throbber.SetActive(true);
             ClearScrollviewContent();
 
+            throbber.SetActive(true);
             VRCStringDownloader.LoadUrl(animeTopURL, (IUdonEventReceiver)this);
-
         }
 
         public void Search()

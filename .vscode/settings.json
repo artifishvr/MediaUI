@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "nya media 2.sln"
+    "dotnet.defaultSolution": "nya media 3.sln"
 }

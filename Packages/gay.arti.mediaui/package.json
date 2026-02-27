@@ -1,15 +1,16 @@
 {
   "name": "gay.arti.mediaui",
   "displayName": "MediaUI",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": " A prefab to turn any world into a movie world. ",
   "gitDependencies": {},
-  "vpmDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.x.x >=3.9.0"
+  },
   "author": {
     "name": "ArtificialVR",
     "email": "dev@arti.gay",
     "url": "https://arti.gay"
   },
-  "legacyFiles": {},
-  "localPath": "C:\\Users\\Arti\\Documents\\VRChat Unity Projects\\nya media 3\\Packages\\gay.arti.mediaui"
+  "legacyFiles": {}
 }

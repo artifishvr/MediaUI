@@ -1,6 +1,11 @@
 {
   "name": "gay.arti.mediaui",
-  "references": [],
+  "references": [
+        "Unity.TextMeshPro",
+        "VRC.Udon",
+        "UdonSharp.Runtime",
+        "VRC.Udon.Serialization.OdinSerializer"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,

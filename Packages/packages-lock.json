@@ -237,6 +237,12 @@
         "com.unity.postprocessing": "3.1.1"
       }
     },
+    "gay.arti.mediaui": {
+      "version": "file:gay.arti.mediaui",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "idv.jlchntoz.vrcw-foundation": {
       "version": "file:idv.jlchntoz.vrcw-foundation",
       "depth": 0,

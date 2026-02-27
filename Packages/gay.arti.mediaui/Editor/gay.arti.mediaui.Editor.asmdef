@@ -1,0 +1,14 @@
+{
+  "name": "gay.arti.mediaui.Editor",
+  "references": [
+    "gay.arti.mediaui"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

@@ -39,6 +39,10 @@ jobs:
       - name: Checkout Local Repository
         uses: actions/checkout@v4
 
+      # Ensure the publish directory exists (some refs/tags may not include it)
+      - name: Ensure Website Directory
+        run: mkdir -p "${{ github.workspace }}/${{ env.listPublishDirectory }}"
+
       # Checkout Automation Repository without removing prior checkouts
       - name: Checkout Automation Repository
         uses: actions/checkout@v4
@@ -58,7 +62,7 @@ jobs:
       
       # Build Package Version Listing with Nuke
       - name: Build Package Version Listing
-        run: ${{ env.pathToCi }}/build.cmd BuildRepoListing --root ${{ env.pathToCi }} --list-publish-directory $GITHUB_WORKSPACE/${{ env.listPublishDirectory }} --current-package-name ${{ vars.PACKAGE_NAME }}
+        run: bash "${{ env.pathToCi }}/build.sh" BuildRepoListing --root "${{ env.pathToCi }}" --list-publish-directory "${{ github.workspace }}/${{ env.listPublishDirectory }}" --current-package-name "${{ vars.PACKAGE_NAME }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

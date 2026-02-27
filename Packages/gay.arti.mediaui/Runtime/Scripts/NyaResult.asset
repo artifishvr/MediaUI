@@ -62,7 +62,7 @@ MonoBehaviour:
       Data: 3|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: Arti.NyaResultsManager, Assembly-CSharp
+      Data: Arti.NyaResultsManager, gay.arti.mediaui
     - Name: 
       Entry: 8
       Data: 

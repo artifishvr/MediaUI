@@ -1,7 +1,7 @@
 {
   "name": "gay.arti.mediaui",
   "displayName": "MediaUI",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "description": " A prefab to turn any world into a movie world. ",
   "gitDependencies": {},
   "vpmDependencies": {

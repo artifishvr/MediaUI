@@ -13321,7 +13321,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: v0.7.3
+  m_text: v0.8.0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0192c63d6e309e641b8f4983cb594509, type: 2}
   m_sharedMaterial: {fileID: 1263180027705627550, guid: 0192c63d6e309e641b8f4983cb594509,
@@ -16970,6 +16970,8 @@ MonoBehaviour:
   mainText: {fileID: 2006993520220557504}
   APIPromo: {fileID: 7478792324801039750}
   UntrustedURLsText: {fileID: 4360332775045706939}
+  enablePersistence: 0
+  persistenceKey: Arti.LockPanel.SuccessfulUrl
 --- !u!114 &1029539200604107482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19061,7 +19063,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: v0.7.3
+  m_text: v0.8.0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: acb881f09f12c944d8dc9254a69ffd5c, type: 2}
   m_sharedMaterial: {fileID: -8202955125289094245, guid: acb881f09f12c944d8dc9254a69ffd5c,
